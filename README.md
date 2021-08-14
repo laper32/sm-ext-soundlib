@@ -1,0 +1,2 @@
+# sm-ext-soundlib
+soundlib
