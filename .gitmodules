@@ -1,0 +1,14 @@
+[submodule "sdk/hl2sdk-csgo"]
+	path = sdk/hl2sdk-csgo
+	url = git@github.com:alliedmodders/hl2sdk.git
+	branch = csgo
+[submodule "sdk/sourcemod"]
+	path = sdk/sourcemod
+	url = git@github.com:alliedmodders/sourcemod.git
+	branch = 1.10-dev
+[submodule "sdk/metamod-source"]
+	path = sdk/metamod-source
+	url = git@github.com:alliedmodders/metamod-source.git
+[submodule "3rdparty/taglib"]
+	path = 3rdparty/taglib
+	url = git@github.com:taglib/taglib.git
